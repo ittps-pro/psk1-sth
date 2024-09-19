@@ -1,0 +1,23 @@
+{
+  "name": "koa-starter",
+  "private": true,
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "@types/koa": "^2.15.0",
+    "@types/node": "^22.5.2",
+    "axios": "^1.7.7",
+    "bitrix24": "^0.0.0",
+    "exec": "^0.2.1",
+    "http-proxy-middleware": "^3.0.1",
+    "koa": "^2.13.1",
+    "koa-logger": "^3.2.1",
+    "koa-pino-logger": "^3.0.0",
+    "php": "^1.1.0",
+    "pm2": "^5.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

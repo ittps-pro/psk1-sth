@@ -8,13 +8,16 @@
     "axios": "^1.7.7",
     "bitrix24": "^0.0.0",
     "exec": "^0.2.1",
+    "generator-koa-rest": "^1.1.7",
     "http-proxy-middleware": "^3.0.1",
+    "json-to-ts": "^2.1.0",
     "koa": "^2.13.1",
     "koa-logger": "^3.2.1",
     "koa-pino-logger": "^3.0.0",
     "php": "^1.1.0",
     "pm2": "^5.4.2",
     "ts-node": "^10.9.2",
+    "ts-transformer-keys": "^0.4.4",
     "typescript": "^5.5.4"
   },
   "scripts": {
